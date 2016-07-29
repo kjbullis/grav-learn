@@ -72,7 +72,7 @@ SUCCESS theme mytheme -> Created Successfully
 Path: /www/user/themes/my-theme
 ```
 
-The DevTools command tells you where this new template was created. This created template is fully functional but also very simple.  You will want to modify this to suite your needs.
+The DevTools command tells you where this new template was created. This created template is fully functional but also very simple.  You will want to modify this to suit your needs.
 
 In order to see your new theme in action, you will need to change the default theme from `antimatter` to `my-theme`, so edit your `user/config/system.yaml` and change it:
 
